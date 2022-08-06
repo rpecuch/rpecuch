@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rpecuch
 - 👀 I’m interested in a career change from medicine to the tech industry
-- 🌱 I’m currently learning Git and GitHub basics
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning Git, GitHub, HTML, CSS, and JavaScript basics
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 
 <!---
