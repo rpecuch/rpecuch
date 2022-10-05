@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpecuch
 - 👀 I’m interested in a career change from medicine to the tech industry
-- 🌱 I’m currently learning about back-end development!
+- 🌱 I’m currently learning about full-stack development!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: rpecuch@comcast.net
 
