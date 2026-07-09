@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rpecuch
-- 👀 I’m interested in working with electronic health records or other medical software.
-- 🌱 I recently completed a JavaScript full-stack development bootcamp and currently furthering my knowledge in Python, C#, MySQL, and NoSQL.
-- 💞️ I’m looking to collaborate on any project that I may be an asset to!
+- 👀 I’m interested in any projects related to the life sciences.
+- 🌱 I began my journey in clinical medicine, supplemented my B.S. with a certificate in full-stack web development, and eventually landed in clinical data science and engineering at Takeda. I concurrently am pursuing my M.S. in Bioinformatics and volunteer for various organizations including [R/Pharma](https://rinpharma.com/).
 - 📫 Contact me at rpecuch@comcast.net for inquiries or suggestions!
 
 <!---
